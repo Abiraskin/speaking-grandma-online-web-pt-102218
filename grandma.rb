@@ -1,11 +1,11 @@
-speak_to_gradma = "I LOVE YOU GRANDMA!"
+speak_to_grandma = "I LOVE YOU GRANDMA!"
 
-if speak_to gradma == "I LOVE YOU GRANDMA!"
+if speak_to grandma == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
 elsif
-  speak_to gradma == "Hi Grandma".upcase
+  speak_to grandma == "Hi Grandma".upcase
   puts "NO, NOT SINCE 1938!"
 else
-  speak_to gradma == "Hi Grandma".downcase
+  speak_to grandma == "Hi Grandma".downcase
   puts "HUH?! SPEAK UP, SONNY!"
 end
