@@ -1,4 +1,4 @@
-speak_to gradma == "I LOVE YOU GRANDMA!"
+speak_to gradma
 
 if speak_to gradma == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
