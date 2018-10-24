@@ -6,6 +6,5 @@ elsif
   speak_to gradma == "Hi Grandma".upcase
   puts "NO, NOT SINCE 1938!"
 else
-  speak_to gradma == "Hi Grandma".downcase  
+  speak_to gradma == "Hi Grandma".downcase
   puts "HUH?! SPEAK UP, SONNY!"
-
